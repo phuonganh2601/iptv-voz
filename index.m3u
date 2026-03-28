@@ -8,10 +8,6 @@ https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
 https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" tvg-logo="https://raw.githubusercontent.com/phuonganh2601/iptv-voz/refs/heads/main/logo/vtv3.png" group-title="Kênh cơ bản",VTV3
 https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="antvhd" tvg-logo="https://raw.githubusercontent.com/phuonganh2601/iptv-voz/refs/heads/main/logo/antv.png" group-title="Kênh cơ bản",ANTV
-https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="qpvnhd" tvg-logo="https://raw.githubusercontent.com/phuonganh2601/iptv-voz/refs/heads/main/logo/qpvn.png" group-title="Kênh cơ bản",QPVN
-https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv4hd" tvg-logo="https://raw.githubusercontent.com/phuonganh2601/iptv-voz/refs/heads/main/logo/vtv4.png" group-title="Kênh cơ bản",VTV4
 https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" tvg-logo="https://raw.githubusercontent.com/phuonganh2601/iptv-voz/refs/heads/main/logo/vtv5.png" group-title="Kênh cơ bản",VTV5
@@ -30,6 +26,10 @@ https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzch2/vtv9hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vietnamtoday" tvg-logo="https://raw.githubusercontent.com/phuonganh2601/iptv-voz/refs/heads/main/logo/vietnamtoday.png" group-title="Kênh cơ bản",Vietnam Today
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="antvhd" tvg-logo="https://raw.githubusercontent.com/phuonganh2601/iptv-voz/refs/heads/main/logo/antv.png" group-title="Kênh cơ bản",ANTV
+https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="qpvnhd" tvg-logo="https://raw.githubusercontent.com/phuonganh2601/iptv-voz/refs/heads/main/logo/qpvn.png" group-title="Kênh cơ bản",QPVN
+https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="onviegiaitri" tvg-logo="https://raw.githubusercontent.com/phuonganh2601/iptv-voz/refs/heads/main/logo/on-vie-giaitri.png" group-title="VTVCab",VTVCab 1 - ON Vie Giải Trí
 #KODIPROP:inputstream=inputstream.adaptive
